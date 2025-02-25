@@ -131,8 +131,6 @@ I also built a POST endpoint that receives product details, validates the input 
 Additionally, I explored optional features like creating admin roles for restricted access to product uploads. This milestone strengthens the backend process of handling product data, making it ready for display on the frontend in future milestones.
 
 ### Milestone 11
-Welcome to Milestone 11! 🌟
-
 In this milestone, we learned how to display products dynamically on the home page using data stored in MongoDB. We built an endpoint to fetch all the products and a frontend function to display them using a product card component. Incorporate that and make a readme.
 
 ## Contributing

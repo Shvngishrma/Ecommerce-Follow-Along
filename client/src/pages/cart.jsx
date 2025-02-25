@@ -1,5 +1,5 @@
 // Cart.jsx
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import CartProduct from '../components/auth/cartProduct';
 import NavBar from '../components/auth/nav';
 import { useNavigate } from 'react-router-dom'; // Import the useNavigate hook

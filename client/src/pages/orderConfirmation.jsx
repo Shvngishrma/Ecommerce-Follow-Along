@@ -1,5 +1,5 @@
 // OrderConfirmation.jsx
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import axios from 'axios';
 import NavBar from '../components/auth/nav';
 import { useLocation, useNavigate } from 'react-router-dom';
