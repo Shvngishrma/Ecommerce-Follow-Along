@@ -73,7 +73,7 @@ const Login = () => {
             </div>
           </form>
           {error && <p className="text-center text-red-900">{error}</p>} {/* Display error message if there is one */}
-                <p className="text-center text-red-900">Don't have an account? <Link to={'/signup'} className="text-blue-600">Sign up</Link></p>
+                <p className="text-center text-red-900">Don&apos;t have an account? <Link to={'/signup'} className="text-blue-600">Sign up</Link></p>
         </div>
       </div>
     </div>
